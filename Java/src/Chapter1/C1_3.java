@@ -1,6 +1,6 @@
 package Chapter1;
 
-// 1.3.5 定数の利用
+// 1.3.5 定数の利用 1-3変数の再代入
 
 public class C1_3 {
 	public static void main (String[] args) {
