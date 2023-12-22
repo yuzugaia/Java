@@ -6,7 +6,7 @@ public class C2_4 {
 	public static void main(String[] args) {
 		int a;
 		a = 100;
-		a++;
+		a++;	//aの内容が一つ増える
 		System.out.println(a);
 	}
 }
