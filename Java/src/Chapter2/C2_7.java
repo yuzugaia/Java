@@ -4,7 +4,7 @@ package Chapter2;
 
 public class C2_7 {
 	public static void main (String[] args) {
-		int age = (int)3.2;
+		int age = (int)3.2;		//3.2をintに型変換して代入
 		System.out.println(age);
 	}
 }
